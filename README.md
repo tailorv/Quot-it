@@ -33,7 +33,7 @@ This is a simple application where users can create quotes and have those quotes
  * ANGULAR
  * HTML
  * CSS
- *BOOTSTRAP
+ * BOOTSTRAP
 
 
 ## Support and contact details
