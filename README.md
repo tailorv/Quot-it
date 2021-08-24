@@ -7,7 +7,7 @@ This is a simple application where users can create quotes and have those quotes
 ## Project Objectives
 * Project should be created using the Angular CLI.
 * Project should contain a custom model class for the quote
-* Your project should have a custom directive to highlight the quote * that has the highest upvotes.
+* Project should have a custom directive to highlight the quote * that has the highest upvotes.
 * Project should contain a form component that has input sections for the quote, the author, and the person who submitted the quote.
 * Each quote must begin with an initial upvote and downvote value of 0
 * Project should have a component to display the quote and a component to display quote details. For example, the quote details could have the author of the quote and the votes it has.
