@@ -31,7 +31,7 @@ This is a simple application where users can create quotes and have those quotes
 
 ## Technologies Used
  *ANGULAR
- HTML
+ *HTML
  CSS
  BOOTSTRAP
 
