@@ -2,34 +2,23 @@
 
 #### AUTHOR **{Maxwell Munene}**
 
-This is a simple application where users can create quotes and have those quotes voted on whether they are terrible or inspirational.As a user you will be able to input a quote and will also be able to upvote or to downvote it. This project was generated with Angular CLI version 12.1.2.
+This is a simple application where users can create quotes and have those quotes voted on whether they are Inspirational or Terrible.As a user you will be able to input a quote and will also be able to upvote or to downvote it. This project was generated with Angular CLI.
 
+## Project Objectives
+* Project should be created using the Angular CLI.
+* Project should contain a custom model class for the quote
+* Your project should have a custom directive to highlight the quote * that has the highest upvotes.
+* Project should contain a form component that has input sections for the quote, the author, and the person who submitted the quote.
+* Each quote must begin with an initial upvote and downvote value of 0
+* Project should have a component to display the quote and a component to display quote details. For example, the quote details could have the author of the quote and the votes it has.
+*Project should contain a custom pipe that shows how much time has passed since the quote was created. 
 
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Setup/Installation Requirements
 * There is nothing that needs to be installed prior tracking your quotes.
-## Known Bugs
-{No bugs at the moment}
+* To rebuild this app run **git clone https://github.com/tailorv/quot-it.git**  on your command line.
+
+
 ## BDD
  | Input                | Output
  | :-------------:      | :-------------:
@@ -38,6 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
  |  Name                | Text displayed
  |  Upvote              | Number displayed > 0
  |  Downvote            | Number displayed > 0
+
+
 ## Technologies Used
  ANGULAR
  HTML
