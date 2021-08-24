@@ -16,7 +16,7 @@
                   <br>
                   ~{{quote.author}}
                   <br>
-                  <button (click)='toggleDetails(i)'>comment</button>
+                  <button (click)='toggleDetails(i)'>comment.</button>
 
                   <app-quote-structure *ngIf='quote.showSubmitDate' [quote]='quote'
                     (publishDate)='deleteQuote($event,i)'></app-quote-structure>
