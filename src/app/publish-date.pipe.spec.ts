@@ -6,4 +6,3 @@ describe('PublishDatePipe', () => {
     expect(pipe).toBeTruthy();
   });
 });
-c
