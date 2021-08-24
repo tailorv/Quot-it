@@ -3,4 +3,4 @@ export class Quote {
        this.showSubmitDate=false;
     }
     showSubmitDate: boolean;
-
+}
