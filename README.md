@@ -15,7 +15,7 @@ This is a simple application where users can create quotes and have those quotes
 
 
 ## Setup/Installation Requirements
-* There is nothing that needs to be installed prior tracking your quotes.
+* Nothing that needs to be installed prior tracking your quotes.
 * To rebuild this app run **git clone https://github.com/tailorv/quot-it.git**  on your command line.
 
 
