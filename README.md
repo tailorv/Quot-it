@@ -5,8 +5,8 @@
 This is a simple application where users can create quotes and have those quotes voted on whether they are Inspirational or Terrible.As a user you will be able to input a quote and will also be able to upvote or to downvote it. This project was generated with Angular CLI.
 
 
-![USER INTERFACE](src/assets/landingpage.png) (LANDING PAGE)
-![USER INTERFACE](src/assets/homepage1.png) (QUOTE SECTIONS)
+![USER INTERFACE](src/assets/Landingpage.png) (LANDING PAGE)
+![USER INTERFACE](src/assets/homepage2.png) (QUOTE SECTIONS)
 
 
 
