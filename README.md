@@ -22,9 +22,9 @@ This is a simple application where users can create quotes and have those quotes
 ## BDD
  | Input                | Output
  | :-------------:      | :-------------:
- |  Quote               | Text displayed
- |  Author              | Text displayed
- |  Name                | Text displayed
+ |  Quote/Inspiration               | Text displayed
+ |  Author/Origin              | Text displayed
+ |  Delete                | Action 
  |  Upvote              | Number displayed > 0
  |  Downvote            | Number displayed > 0
 
